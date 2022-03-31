@@ -1,0 +1,21 @@
+
+
+body{
+    text-align: center;;
+}
+.environment_li{
+    margin-top: 13px;
+    border-radius: 0px;
+    margin-left: 20px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.environment_li img{
+    border-radius: 25px;
+}
+.environment_li p{
+    margin-top: 10px;
+}
